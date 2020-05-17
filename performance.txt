@@ -1,0 +1,11 @@
+Number for requester thread = 11257
+Number for requester thread = 11258
+Number for requester thread = 11259
+Number for requester thread = 11255
+Number for requester thread = 11256
+Number for resolver thread = 11262
+Number for resolver thread = 11263
+Number for resolver thread = 11261
+Number for resolver thread = 11264
+Number for resolver thread = 11260
+Total run time = 9
